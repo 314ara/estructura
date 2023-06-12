@@ -1,0 +1,170 @@
+{
+	"folders": [
+		{
+			"path": "../../practicas"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/23-PROYECTO-Prototypes-Seguro"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/24-POO"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/25-PROYECTO-GastoSemanal"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/26-PROYECTO-AdministrarCitas"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/27-SetsMapsSymbols"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/28-Modulos"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/29-PROYECTO-CitasModulos"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/30-IndexedDB"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/31-PROYECTO-IndexedDB"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/32-PROYECTO-CRMIndexedDB"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/33-Promises"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/34-APIs-JS"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/35-FetchAPI"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/36-PROYECTO-Clima"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/37-PROYECTO-BuscadorRecetas"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/38-PROYECTO-PixabayImagenes"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/39-PROYECTO-Criptomonedas"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/40-PROYECTO-Calculadora de Propinas con JSON-Server"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/41-AsyncAwait"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/42-PROYECTO-AsyncAwait-Pixabay"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/43-PROYECTO-AsyncAwait-Criptomonedas"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/44-PROYECTO-CRM-CRUD-REST"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/45-FunctionalJS"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/46-DominandoJavaScript"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/47-ServiceWorkers-PWA"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/48-DesignPatterns"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/49-Seguridad-Performance-Debug"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/50-Testing-JS"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/51-Testing-Jest"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/52-Testing-Cypress"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/53-Webpack-ESLint"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/assets"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/01-Introduccion"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/02-Variables"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/03-Strings"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/04-Numeros"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/05-Operadores"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/06-Booleans"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/07-Objetos"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/08-Arrays"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/09-Funciones"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/10-Estructuras"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/11-Iteradores"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/12-ArrayMethods"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/13-DOM"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/14-Eventos"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/15-PROYECTO-Carrito"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/16-PROYECTO-EnviarEmail"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/17-PROYECTO-Buscador"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/18-LocalStorage"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/19-PROYECTO-LocalStorage"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/20-PROYECTO-Carrito-LS"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/21-Fechas"
+		},
+		{
+			"path": "../../curso js/Curso JS Moderno/22-Prototypes"
+		}
+	],
+	"settings": {}
+}
